@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(167, 162, 162);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: black;
+    color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%
+}
+
+h2 {
+    text-align: center;
+
+}
+
+ol {
+    display: inline-block;
+}
+
+h3 {
+    background-color: grey;
+}
+
+li {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 20px;
+}
